@@ -5,7 +5,7 @@
     "branch": "ten"
   },
   {
-    "repository": "kernel_xiaomi_dipper",
+    "repository": "PainKiller3/kernel_xiaomi_sdm845",
     "target_path": "kernel/xiaomi/beryllium",
     "branch": "ten"
   },
